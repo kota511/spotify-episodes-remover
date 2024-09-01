@@ -1,0 +1,6 @@
+requests
+datetime
+inquirer
+pytz
+dotenv
+os
